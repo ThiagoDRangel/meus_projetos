@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.search{
+  background-color: blueviolet;
+  padding: 10px;
+  text-align: center;
+}
+
+.search input[type=text]{
+  width: 80%;
+  height: 40px;
+  padding-left: 10px;
+}
+
+.estiloCidade{
+  text-align: center;
+}
+
+.estiloCidade p{
+  border-bottom: 1px dashed #ccc;
+  padding: 10px 0;
+  font-weight: bold;
+}
